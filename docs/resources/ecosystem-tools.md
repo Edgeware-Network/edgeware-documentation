@@ -55,22 +55,6 @@ Secondary to the Polkadot UI is [Commonwealth.im](http://Commonwealth.im), which
 * [Spatium](https://spatium.net/)                                    
 * [Blockchain.com](https://www.blockchain.com/)                      
 
-### Exchanges
-
-{% hint style="info" %}
-This list is provided without endorsement by Commonwealth Labs, the core developers of Edgeware. Using an exchange is at **your own risk**, and you use should investigate fully the risks and the character of the entity. [**You can also check CoinGecko for listings.**](https://www.coingecko.com/en/coins/edgeware)
-{% endhint %}
-
-| Exchange | Pairs | URL |
-| :--- | :--- | :--- |
-| HotBit | EDG/BTC | [https://www.hotbit.io/exchange](https://www.hotbit.io/exchange?symbol=EDG_BTC) |
-| MXC | EDG/USDT | [https://www.mxc.com/trade/easy\#EDG\_USDT](https://www.mxc.com/trade/easy#EDG_USDT) |
-| BKEX | EDG/USDT | [https://www.bkex.com/trade/EDG\_USDT](https://www.bkex.com/#/trade/EDG_USDT) |
-| HotBit | EDG/USDT | [https://www.hotbit.io/exchange?symbol=EDG\_USDT](https://www.hotbit.io/exchange?symbol=EDG_USDT) |
-| MXC | EDG/BTC | [https://www.mxc.com/trade/easy\#EDG\_BTC](https://www.mxc.com/trade/easy#EDG_BTC) |
-| Biki | EDG/USDT | [https://www.biki.com/en\_US/trade/EDG\_USDT](https://www.biki.com/en_US/trade/EDG_USDT) |
-| BiHodl | EDG/ USDT | [https://www.bihodl.com/\#/exchange/edg\_usdt](https://www.bihodl.com/#/exchange/edg_usdt) |
-
 ### Nodes and Deployment
 
 * [Gantree Infrastructure Toolkit for Substrate](https://github.com/flex-dapps/gantree-lib-nodejs)
